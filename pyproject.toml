@@ -3,7 +3,7 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "esp-idf-kconfig"
+name = "test-pkg-kconfig"
 authors = [
     {name = "Espressif Systems"},
 ]

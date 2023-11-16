@@ -1,4 +1,9 @@
-## Unreleased
+## v1.4.1 (2023-11-16)
+
+### Fix
+
+- fix github release action
+- **docs**: fix not expression evaluation for range parameter
 
 ## v1.4.0 (2023-10-20)
 

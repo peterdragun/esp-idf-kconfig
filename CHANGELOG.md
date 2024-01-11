@@ -1,4 +1,8 @@
-## Unreleased
+## v2.0.2 (2024-01-11)
+
+### Bug Fixes
+
+- foo commit test run release
 
 ## v2.0.1 (2023-11-09)
 

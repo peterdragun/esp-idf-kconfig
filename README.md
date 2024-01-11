@@ -24,7 +24,7 @@ pre-commit install -t pre-commit -t commit-msg
 ```
 
 On the first commit ``pre-commit`` will install the hooks, subsequent checks will be significantly faster. If an error is found an appropriate error message will be displayed.
-
+foo
 
 #### Conventional Commits
 

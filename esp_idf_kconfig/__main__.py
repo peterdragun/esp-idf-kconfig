@@ -2,6 +2,7 @@
 # SPDX-License-Identifier: Apache-2.0
 print("ESP-IDF Kconfig tool")
 msg = "Please select a tool to run with command:"
+    
 print(
     f"{msg}"
     f"\n{' '*int(len(msg)/2)}"

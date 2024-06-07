@@ -29,3 +29,5 @@ On the first commit ``pre-commit`` will install the hooks, subsequent checks wil
 #### Conventional Commits
 
 ``esp-idf-kconfig`` complies with the [Conventional Commits standard](https://www.conventionalcommits.org/en/v1.0.0/#specification). Every commit message is checked with [Conventional Precommit Linter](https://github.com/espressif/conventional-precommit-linter), ensuring it adheres to the standard.
+
+foo
